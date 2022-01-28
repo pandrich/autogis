@@ -1,0 +1,3 @@
+id;addr
+1001;Klausstrasse, 20, 22765 Hamburg, Germany
+1002;Via Nazionale, 7, 23038 Valdidentro, Italy
